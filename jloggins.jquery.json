@@ -8,16 +8,15 @@
         "log",
         "diagnostics"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "AbstractLabs",
-        "url": "https://github.com/abstractlabs/jloggins/readme.md"
+        "url": "https://github.com/gufu/jloggins/blob/master/README.md"
     },
     "maintainers": [
         {
-            "name": "Scott Wood",
-            "email": "jloggins@abstractlabs.net",
-            "url": "http://abstractlabs.net"
+            "name": "Konrad Gusz",
+            "email": "konrad.gusz@gmail.com",
         }
     ],
     "licenses": [
@@ -26,10 +25,10 @@
             "url": "https://github.com/abstractlabs/jloggins/MIT-LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/abstractlabs/jloggins/issues",
-    "homepage": "https://github.com/abstractlabs/jloggins",
-    "docs": "https://github.com/abstractlabs/jloggins",
-    "download": "https://raw.github.com/abstractlabs/jloggins/master/jquery.jloggins.1.0.1.js",
+    "bugs": "https://github.com/gufu/jloggins/issues",
+    "homepage": "https://github.com/gufu/jloggins",
+    "docs": "https://github.com/gufu/jloggins",
+    "download": "https://raw.githubusercontent.com/gufu/jloggins/master/jquery.jloggins.1.0.2.js",
     "dependencies": {
         "jquery": ">=2.0"
     }
